@@ -1,4 +1,4 @@
-# machine-learning-hw1
+# machine-learning-project1
 
 q3:
 When we think of a Gaussian distribution (a bell-curve) in 1, 2, or 3 dimensions, the picture that comes to mind is a “blob” with a lot of mass near the origin and exponential decay away from the origin. However, the picture is very different in higher dimensions (and illustrates the counter-intuitive nature of high-dimensional data analysis). In short, we will show that Gaussian distributions are like soap bubbles: most of the mass is concentrated near a shell of a given radius, and is empty everywhere else.

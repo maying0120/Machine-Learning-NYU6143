@@ -1,4 +1,4 @@
-# machine-learing-hw2
+# machine-learing-peoject2
 
 question 3:
 

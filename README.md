@@ -1,4 +1,4 @@
-# This is the Machine Learning Homeworks for NYU-6143 
+#  Machine Learning Homeworks for NYU-6143 
 ## There are 5 branches for 5 different prjects.
 
 
